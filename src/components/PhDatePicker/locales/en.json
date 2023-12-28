@@ -1,0 +1,13 @@
+{
+  "startDate": "Start Date",
+  "dueDate": "Due Date",
+  "startTime": "Start Time",
+  "dueTime": "Due Time",
+  "repeats": "Repeats",
+  "clearAll": "Clear all",
+  "onTheseDays": "On these days",
+  "OnThe": "On the",
+  "OnDay": "On day",
+  "daysComplete": "Days after completion",
+  "every": "Every"
+}

@@ -1,0 +1,13 @@
+{
+  "startDate": "Fecha de inicio",
+  "dueDate": "Fecha de vencimiento",
+  "startTime": "Hora de inicio",
+  "dueTime": "Tiempo debido",
+  "repeats": "Se repite",
+  "clearAll": "Limpiar todo",
+  "onTheseDays": "En estos días",
+  "OnThe": "Sobre el",
+  "OnDay": "En el día",
+  "daysComplete": "Días después de su finalización",
+  "every": "Cada"
+}
